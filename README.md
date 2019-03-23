@@ -4,7 +4,7 @@
 
 Lingvo is a framework for building neural networks in Tensorflow, particularly
 sequence models.
-（谷歌的自然语言处理开源项目）
+（谷歌的自然语言处理开源项目）微信文章https://mp.weixin.qq.com/s/JDokd9WOjczV_qEwTdFKhQ
 A list of publications using Lingvo can be found [here](PUBLICATIONS.md).
 
 ## Quick start
